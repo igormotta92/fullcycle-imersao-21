@@ -36,3 +36,4 @@ Ao final das aulas teremos todo o projeto, no momento estamos na aula 02 do Next
 ## Arquitetura do projeto
 
 ![alt text](./arquitetura_projeto.png)# fullcycle-imersao-21
+# fullcycle-imersao-21
